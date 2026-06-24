@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 #header {
-	background: url("images/Picture.JPG") no-repeat center 50% scroll;
+	background: url("./images/Picture.JPG") no-repeat center 50% scroll;
 	background-size: cover;
 	text-shadow:1px 1px 0 #FFF, -1px -1px 0 #FFF,
 		-1px 1px 0 #FFF, 1px -1px 0 #FFF,
